@@ -1,0 +1,11 @@
+experiment,capacity,best_policy,best_hit_rate
+full_prefix,256,LFU,4.489774696707106
+full_prefix,512,LFU,4.553899480069324
+full_prefix,1024,LFU,4.807972270363951
+full_prefix,2048,LFU,6.023570190641248
+full_prefix,4096,Adaptive,8.758752166377816
+root_excluded,256,LFU,0.3338529817086183
+root_excluded,512,LFU,0.4007682597325559
+root_excluded,1024,LFU,0.6658974423895627
+root_excluded,2048,LFU,1.9343940912000983
+root_excluded,4096,Adaptive,4.788240272869652

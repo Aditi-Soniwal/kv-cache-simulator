@@ -1,0 +1,11 @@
+experiment,capacity,best_policy,best_hit_rate
+full_prefix,256,LFU,4.4898
+full_prefix,512,LFU,4.5539
+full_prefix,1024,LFU,4.808
+full_prefix,2048,LFU,6.0236
+full_prefix,4096,Adaptive,8.7588
+root_excluded,256,LFU,0.3339
+root_excluded,512,LFU,0.4008
+root_excluded,1024,LFU,0.6659
+root_excluded,2048,LFU,1.9344
+root_excluded,4096,Adaptive,4.7882

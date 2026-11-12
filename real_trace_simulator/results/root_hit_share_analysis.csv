@@ -1,0 +1,41 @@
+experiment,policy,capacity,root_hits,prefix_hits,root_hit_share_percent
+full_prefix,Adaptive,256,12030,12170,98.84963023829087
+full_prefix,LFU,256,12030,12953,92.87423762834864
+full_prefix,LRU,256,12030,12092,99.48726430697981
+full_prefix,Static TTL,256,12030,12092,99.48726430697981
+full_prefix,Adaptive,512,12030,12241,98.27628461726982
+full_prefix,LFU,512,12030,13138,91.56644847008677
+full_prefix,LRU,512,12030,12168,98.86587771203156
+full_prefix,Static TTL,512,12030,12168,98.86587771203156
+full_prefix,Adaptive,1024,12030,12871,93.4659311630798
+full_prefix,LFU,1024,12030,13871,86.72770528440633
+full_prefix,LRU,1024,12030,12831,93.75730652326398
+full_prefix,Static TTL,1024,12030,12831,93.75730652326398
+full_prefix,Adaptive,2048,12030,15805,76.11515343245809
+full_prefix,LFU,2048,12030,17378,69.22545747496835
+full_prefix,LRU,2048,12030,15833,75.98054695888334
+full_prefix,Static TTL,2048,12030,15758,76.34217540296993
+full_prefix,Adaptive,4096,12030,25269,47.60774070996082
+full_prefix,LFU,4096,12030,24874,48.36375331671625
+full_prefix,LRU,4096,12030,25259,47.626588542697654
+full_prefix,Static TTL,4096,12030,16592,72.50482160077145
+root_excluded,Adaptive,256,0,140,0.0
+root_excluded,LFU,256,0,923,0.0
+root_excluded,LRU,256,0,62,0.0
+root_excluded,Static TTL,256,0,62,0.0
+root_excluded,Adaptive,512,0,211,0.0
+root_excluded,LFU,512,0,1108,0.0
+root_excluded,LRU,512,0,138,0.0
+root_excluded,Static TTL,512,0,138,0.0
+root_excluded,Adaptive,1024,0,841,0.0
+root_excluded,LFU,1024,0,1841,0.0
+root_excluded,LRU,1024,0,827,0.0
+root_excluded,Static TTL,1024,0,827,0.0
+root_excluded,Adaptive,2048,0,3775,0.0
+root_excluded,LFU,2048,0,5348,0.0
+root_excluded,LRU,2048,0,3803,0.0
+root_excluded,Static TTL,2048,0,3728,0.0
+root_excluded,Adaptive,4096,0,13238,0.0
+root_excluded,LFU,4096,0,12844,0.0
+root_excluded,LRU,4096,0,13229,0.0
+root_excluded,Static TTL,4096,0,4562,0.0

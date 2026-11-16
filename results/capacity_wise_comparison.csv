@@ -1,0 +1,65 @@
+Dataset,Capacity_Unit,Capacity,Condition,Policy,Hit_Rate_Percent
+Synthetic,Cache Entries,20,Gradual Shift,Adaptive,69.0
+Synthetic,Cache Entries,20,Gradual Shift,LFU,49.519999999999996
+Synthetic,Cache Entries,20,Gradual Shift,LRU,63.629999999999995
+Synthetic,Cache Entries,20,Gradual Shift,Static-TTL,63.62
+Synthetic,Cache Entries,20,High Cache Pressure,Adaptive,10.01
+Synthetic,Cache Entries,20,High Cache Pressure,LFU,10.100000000000001
+Synthetic,Cache Entries,20,High Cache Pressure,LRU,10.01
+Synthetic,Cache Entries,20,High Cache Pressure,Static-TTL,10.01
+Synthetic,Cache Entries,20,Low Reuse,Adaptive,0.42
+Synthetic,Cache Entries,20,Low Reuse,LFU,0.38999999999999996
+Synthetic,Cache Entries,20,Low Reuse,LRU,0.31
+Synthetic,Cache Entries,20,Low Reuse,Static-TTL,0.31
+Synthetic,Cache Entries,20,Repeated Shifts,Adaptive,68.43
+Synthetic,Cache Entries,20,Repeated Shifts,LFU,48.82
+Synthetic,Cache Entries,20,Repeated Shifts,LRU,60.650000000000006
+Synthetic,Cache Entries,20,Repeated Shifts,Static-TTL,60.650000000000006
+Synthetic,Cache Entries,20,Stable Reuse,Adaptive,75.72
+Synthetic,Cache Entries,20,Stable Reuse,LFU,76.7
+Synthetic,Cache Entries,20,Stable Reuse,LRU,57.65
+Synthetic,Cache Entries,20,Stable Reuse,Static-TTL,57.65
+Synthetic,Cache Entries,20,Sudden Shift,Adaptive,72.74000000000001
+Synthetic,Cache Entries,20,Sudden Shift,LFU,40.77
+Synthetic,Cache Entries,20,Sudden Shift,LRU,57.089999999999996
+Synthetic,Cache Entries,20,Sudden Shift,Static-TTL,57.089999999999996
+Mooncake,Blocks,256,Full Prefix,Adaptive,4.218370883882149
+Mooncake,Blocks,256,Full Prefix,LFU,4.489774696707106
+Mooncake,Blocks,256,Full Prefix,LRU,4.191334488734835
+Mooncake,Blocks,256,Full Prefix,Static TTL,4.191334488734835
+Mooncake,Blocks,256,Root Excluded,Adaptive,0.0506385887748716
+Mooncake,Blocks,256,Root Excluded,LFU,0.3338529817086183
+Mooncake,Blocks,256,Root Excluded,LRU,0.0224256607431574
+Mooncake,Blocks,256,Root Excluded,Static TTL,0.0224256607431574
+Mooncake,Blocks,512,Full Prefix,Adaptive,4.242980935875217
+Mooncake,Blocks,512,Full Prefix,LFU,4.553899480069324
+Mooncake,Blocks,512,Full Prefix,LRU,4.217677642980936
+Mooncake,Blocks,512,Full Prefix,Static TTL,4.217677642980936
+Mooncake,Blocks,512,Root Excluded,Adaptive,0.0763195873678423
+Mooncake,Blocks,512,Root Excluded,LFU,0.4007682597325559
+Mooncake,Blocks,512,Root Excluded,LRU,0.049915180363802
+Mooncake,Blocks,512,Root Excluded,Static TTL,0.049915180363802
+Mooncake,Blocks,1024,Full Prefix,Adaptive,4.461351819757366
+Mooncake,Blocks,1024,Full Prefix,LFU,4.807972270363951
+Mooncake,Blocks,1024,Full Prefix,LRU,4.447487001733102
+Mooncake,Blocks,1024,Full Prefix,Static TTL,4.447487001733102
+Mooncake,Blocks,1024,Root Excluded,Adaptive,0.3041932368547649
+Mooncake,Blocks,1024,Root Excluded,LFU,0.6658974423895627
+Mooncake,Blocks,1024,Root Excluded,LRU,0.2991293779772777
+Mooncake,Blocks,1024,Root Excluded,Static TTL,0.2991293779772777
+Mooncake,Blocks,2048,Full Prefix,Adaptive,5.478336221837089
+Mooncake,Blocks,2048,Full Prefix,LFU,6.023570190641248
+Mooncake,Blocks,2048,Full Prefix,LRU,5.488041594454073
+Mooncake,Blocks,2048,Full Prefix,Static TTL,5.462045060658579
+Mooncake,Blocks,2048,Root Excluded,Adaptive,1.3654333758938615
+Mooncake,Blocks,2048,Root Excluded,LFU,1.9343940912000983
+Mooncake,Blocks,2048,Root Excluded,LRU,1.3755610936488358
+Mooncake,Blocks,2048,Root Excluded,Static TTL,1.348433278233726
+Mooncake,Blocks,4096,Full Prefix,Adaptive,8.758752166377816
+Mooncake,Blocks,4096,Full Prefix,LFU,8.621837088388215
+Mooncake,Blocks,4096,Full Prefix,LRU,8.755285961871751
+Mooncake,Blocks,4096,Full Prefix,Static TTL,5.751126516464471
+Mooncake,Blocks,4096,Root Excluded,Adaptive,4.788240272869652
+Mooncake,Blocks,4096,Root Excluded,LFU,4.645728815888942
+Mooncake,Blocks,4096,Root Excluded,LRU,4.78498493501984
+Mooncake,Blocks,4096,Root Excluded,Static TTL,1.650094585649747

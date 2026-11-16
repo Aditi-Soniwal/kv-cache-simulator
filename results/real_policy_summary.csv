@@ -1,0 +1,9 @@
+Policy,Experiment,Real_Average_Prefix_Hit_Rate_Percent
+Adaptive,Full Prefix,5.431958405545927
+Adaptive,Root Excluded,1.3169650123521985
+LFU,Full Prefix,5.699410745233969
+LFU,Root Excluded,1.5961283181839554
+LRU,Full Prefix,5.41996533795494
+LRU,Root Excluded,1.3064032495505826
+Static TTL,Full Prefix,4.813934142114385
+Static TTL,Root Excluded,0.673999616593542

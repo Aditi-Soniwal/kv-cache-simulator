@@ -1,0 +1,25 @@
+Capacity,Condition,Policy,Hit_Rate_Percent,Dataset,Capacity_Unit
+20,Gradual Shift,Adaptive,69.0,Synthetic,Cache Entries
+20,Gradual Shift,LFU,49.519999999999996,Synthetic,Cache Entries
+20,Gradual Shift,LRU,63.629999999999995,Synthetic,Cache Entries
+20,Gradual Shift,Static-TTL,63.62,Synthetic,Cache Entries
+20,High Cache Pressure,Adaptive,10.01,Synthetic,Cache Entries
+20,High Cache Pressure,LFU,10.100000000000001,Synthetic,Cache Entries
+20,High Cache Pressure,LRU,10.01,Synthetic,Cache Entries
+20,High Cache Pressure,Static-TTL,10.01,Synthetic,Cache Entries
+20,Low Reuse,Adaptive,0.42,Synthetic,Cache Entries
+20,Low Reuse,LFU,0.38999999999999996,Synthetic,Cache Entries
+20,Low Reuse,LRU,0.31,Synthetic,Cache Entries
+20,Low Reuse,Static-TTL,0.31,Synthetic,Cache Entries
+20,Repeated Shifts,Adaptive,68.43,Synthetic,Cache Entries
+20,Repeated Shifts,LFU,48.82,Synthetic,Cache Entries
+20,Repeated Shifts,LRU,60.650000000000006,Synthetic,Cache Entries
+20,Repeated Shifts,Static-TTL,60.650000000000006,Synthetic,Cache Entries
+20,Stable Reuse,Adaptive,75.72,Synthetic,Cache Entries
+20,Stable Reuse,LFU,76.7,Synthetic,Cache Entries
+20,Stable Reuse,LRU,57.65,Synthetic,Cache Entries
+20,Stable Reuse,Static-TTL,57.65,Synthetic,Cache Entries
+20,Sudden Shift,Adaptive,72.74000000000001,Synthetic,Cache Entries
+20,Sudden Shift,LFU,40.77,Synthetic,Cache Entries
+20,Sudden Shift,LRU,57.089999999999996,Synthetic,Cache Entries
+20,Sudden Shift,Static-TTL,57.089999999999996,Synthetic,Cache Entries

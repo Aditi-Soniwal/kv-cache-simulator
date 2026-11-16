@@ -1,0 +1,5 @@
+Policy,Synthetic_Average_Hit_Rate_Percent
+Adaptive,49.38666666666666
+LFU,37.71666666666667
+LRU,41.556666666666665
+Static-TTL,41.555

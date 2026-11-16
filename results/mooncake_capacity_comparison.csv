@@ -1,0 +1,41 @@
+Capacity,Condition,Policy,Hit_Rate_Percent,Dataset,Capacity_Unit
+256,Full Prefix,Adaptive,4.218370883882149,Mooncake,Blocks
+256,Full Prefix,LFU,4.489774696707106,Mooncake,Blocks
+256,Full Prefix,LRU,4.191334488734835,Mooncake,Blocks
+256,Full Prefix,Static TTL,4.191334488734835,Mooncake,Blocks
+256,Root Excluded,Adaptive,0.0506385887748716,Mooncake,Blocks
+256,Root Excluded,LFU,0.3338529817086183,Mooncake,Blocks
+256,Root Excluded,LRU,0.0224256607431574,Mooncake,Blocks
+256,Root Excluded,Static TTL,0.0224256607431574,Mooncake,Blocks
+512,Full Prefix,Adaptive,4.242980935875217,Mooncake,Blocks
+512,Full Prefix,LFU,4.553899480069324,Mooncake,Blocks
+512,Full Prefix,LRU,4.217677642980936,Mooncake,Blocks
+512,Full Prefix,Static TTL,4.217677642980936,Mooncake,Blocks
+512,Root Excluded,Adaptive,0.0763195873678423,Mooncake,Blocks
+512,Root Excluded,LFU,0.4007682597325559,Mooncake,Blocks
+512,Root Excluded,LRU,0.049915180363802,Mooncake,Blocks
+512,Root Excluded,Static TTL,0.049915180363802,Mooncake,Blocks
+1024,Full Prefix,Adaptive,4.461351819757366,Mooncake,Blocks
+1024,Full Prefix,LFU,4.807972270363951,Mooncake,Blocks
+1024,Full Prefix,LRU,4.447487001733102,Mooncake,Blocks
+1024,Full Prefix,Static TTL,4.447487001733102,Mooncake,Blocks
+1024,Root Excluded,Adaptive,0.3041932368547649,Mooncake,Blocks
+1024,Root Excluded,LFU,0.6658974423895627,Mooncake,Blocks
+1024,Root Excluded,LRU,0.2991293779772777,Mooncake,Blocks
+1024,Root Excluded,Static TTL,0.2991293779772777,Mooncake,Blocks
+2048,Full Prefix,Adaptive,5.478336221837089,Mooncake,Blocks
+2048,Full Prefix,LFU,6.023570190641248,Mooncake,Blocks
+2048,Full Prefix,LRU,5.488041594454073,Mooncake,Blocks
+2048,Full Prefix,Static TTL,5.462045060658579,Mooncake,Blocks
+2048,Root Excluded,Adaptive,1.3654333758938615,Mooncake,Blocks
+2048,Root Excluded,LFU,1.9343940912000983,Mooncake,Blocks
+2048,Root Excluded,LRU,1.3755610936488358,Mooncake,Blocks
+2048,Root Excluded,Static TTL,1.348433278233726,Mooncake,Blocks
+4096,Full Prefix,Adaptive,8.758752166377816,Mooncake,Blocks
+4096,Full Prefix,LFU,8.621837088388215,Mooncake,Blocks
+4096,Full Prefix,LRU,8.755285961871751,Mooncake,Blocks
+4096,Full Prefix,Static TTL,5.751126516464471,Mooncake,Blocks
+4096,Root Excluded,Adaptive,4.788240272869652,Mooncake,Blocks
+4096,Root Excluded,LFU,4.645728815888942,Mooncake,Blocks
+4096,Root Excluded,LRU,4.78498493501984,Mooncake,Blocks
+4096,Root Excluded,Static TTL,1.650094585649747,Mooncake,Blocks

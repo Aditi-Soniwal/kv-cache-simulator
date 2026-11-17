@@ -4,7 +4,7 @@ A research project exploring how different KV-cache retention policies perform w
 
 ## About the Project
 
-KV-cache helps Large Language Models avoid repeating computations by storing previously generated attention information. But cache memory is limited, so the system needs to decide which entries to keep and which ones to remove.
+Large Language Models (LLMs) generate responses through a large number of computations during inference and to avoid repeating some of these computations, previously calculated Key- Value (KV) states can be stored in a KV Cache and reused, reducing repeated computation and improve efficiency.The cache consumes memory and has a limited capacity so it used a retention policy to decide which entries remain in the cache and which entries should be evicted.The effectiveness of a retention policy depends on requestreuse pattern. So a policy that performs well under a stable workload may not perform equally efficiently when requests change. This study examines how retention policy behave when the request -reuse pattern changes over time.
 
 This project compares four cache replacement and retention policies to understand how they behave under different request patterns, especially when those patterns change over time.
 
